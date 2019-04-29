@@ -16,7 +16,6 @@
 			"email": "info@tanasov.net"
 		}
 	],
-	"minimum-stability": "dev",
 	"require": {
 		"yiisoft/yii2": "*"
 	},
@@ -25,4 +24,14 @@
 			"la5erdance\\seo\\": ""
 		}
 	}
+	"repositories": [
+		{
+		    "type": "vcs",
+		    "url": "https://github.com/la5erdance/yii2-seo-component"
+		}
+	],
+	"config": {
+		"process-timeout": 1800
+	}		
+	
 }
