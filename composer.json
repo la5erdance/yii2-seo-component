@@ -23,7 +23,7 @@
 		"psr-4": {
 			"la5erdance\\seo\\": ""
 		}
-	}
+	},
 	"repositories": [
 		{
 		    "type": "vcs",
