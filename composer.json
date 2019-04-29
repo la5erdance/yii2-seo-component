@@ -16,6 +16,7 @@
 			"email": "info@tanasov.net"
 		}
 	],
+	"minimum-stability": "dev",
 	"require": {
 		"yiisoft/yii2": "*"
 	},
